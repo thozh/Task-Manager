@@ -1,0 +1,5 @@
+server:
+  origin: http://elasticbeanstalk-us-east-1-841241662605.s3-website-us-east-1.amazonaws.com
+
+db:
+  synchronize: false
